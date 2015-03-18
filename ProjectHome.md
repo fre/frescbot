@@ -1,0 +1,1 @@
+Fre's Starcraft AI Bot.  Won tournaments 1 and 2 at Starcraft AI Competition 2010.
